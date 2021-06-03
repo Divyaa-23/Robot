@@ -1,0 +1,10 @@
+
+.shopping {
+  list-style-type: circle;
+}
+#steps {
+  list-style-type: georgian;
+}
+*{
+    background-color: rgb(252, 210, 156);
+}
